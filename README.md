@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/vglennlq7/vglennlq7/blob/main/intro.gif" />
 
 <h1 align="center">
-    <img src="https://github.com/VexlerLuque/VexlerLuque/blob/main/name-animation.gif" />
+    <img src="https://github.com/VexlerLuque/VexlerLuque/blob/main/intro.gif" />
 </h1>
 
 <h3 align="center">A passionate software developer from Peru pe</h3>
