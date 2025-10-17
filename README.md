@@ -19,9 +19,8 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+![Spotify Now Playing](https://spotify-playing-three-snowy.vercel.app/api/spotify)
 
 
-<br/><br/>
 
 
