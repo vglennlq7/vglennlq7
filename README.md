@@ -1,10 +1,7 @@
-<img align="center" src="https://github.com/vglenn1q7/vglenn1q7/blob/main/intro.gif" />
 
 <h1 align="center">
     <img src="https://github.com/vglenn1q7/vglenn1q7/blob/main/intro.gif" width="600" />
 </h1>
-
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 
 <h3 align="center">A passionate software developer from Peru pe</h3>
