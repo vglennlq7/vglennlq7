@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://github.com/vglenn1q7/vglenn1q7/blob/main/intro.gif" width="600" />
+    <img src="https://github.com/vglennlq7/vglennlq7/blob/main/intro.gif" width="600" />
 </h1>
 
 
