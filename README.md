@@ -19,8 +19,7 @@
   <br/><br/><br/>
 </div>
 
-![Spotify Now Playing](https://spotify-playing-three-snowy.vercel.app/api/spotify)
-
+[![Spotify](https://spotify-playing-three-snowy.vercel.app)](https://open.spotify.com/user/31u6nvuhmbkiomuyjloy3vidtiea)
 
 
 
