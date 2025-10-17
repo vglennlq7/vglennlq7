@@ -18,7 +18,7 @@
   
   <br/><br/><br/>
 </div>
-
+<div align=center>
 [![Spotify Now Playing](https://spotify-playground-tawny.vercel.app/api/spotify)](https://open.spotify.com/user/31u6nvuhmbkiomuyjloy3vidtiea)
-
+<div/>
 
