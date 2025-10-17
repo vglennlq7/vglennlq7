@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/VexlerLuque/VexlerLuque/intro.gif" />
+<img align="right" src="https://github.com/vglennlq7/vglennlq7/blob/main/intro.gif" />
 
 <h1 align="center">
     <img src="https://github.com/VexlerLuque/VexlerLuque/intro.gif" />
