@@ -19,4 +19,6 @@
   <br/><br/><br/>
 </div>
 
- [![Spotify](https://vglennlq7.vercel.app/api/spotify)](https://open.spotify.com/user/31u6nvuhmbkiomuyjloy3vidtiea)
+[![Spotify Now Playing](https://spotify-playground-tawny.vercel.app/api/spotify)](https://open.spotify.com/user/31u6nvuhmbkiomuyjloy3vidtiea)
+
+
