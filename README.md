@@ -18,9 +18,5 @@
   
   <br/><br/><br/>
 </div>
-&nbsp;<div align="center">
-[![Spotify](https://spotify-playing-three-snowy.vercel.app)](https://open.spotify.com/user/31u6nvuhmbkiomuyjloy3vidtiea)
-</div>
 
-&nbsp;<div align="center">
-
+ [![Spotify](https://vglennlq7.vercel.app/api/spotify)](https://open.spotify.com/user/31u6nvuhmbkiomuyjloy3vidtiea)
