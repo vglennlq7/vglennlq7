@@ -7,9 +7,7 @@
 <h2 align="center">I am an aspiring Software Engineer with the goal of becoming a Cybersecurity Programmer 🎯. I’m passionate about technology, problem-solving, and learning how to protect digital systems from modern threats. Right now, i am learning Python, HTML, CSS and JavaScript.....🚀 </h2>
 
 <br/>
-
-
-<hr/>
+<br>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
