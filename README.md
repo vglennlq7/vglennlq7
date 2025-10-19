@@ -4,7 +4,7 @@
 </h1>
 
 
-<h3 align="center">A passionate software developer from Peru pe</h3>
+<h2 align="center">I am an aspiring Software Engineer with the goal of becoming a Cybersecurity Programmer 🎯. I’m passionate about technology, problem-solving, and learning how to protect digital systems from modern threats. Right now, i am learning Python, HTML, CSS and JavaScript.....🚀 </h2>
 
 <br/>
 
@@ -15,8 +15,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br/>
 </div>
 <div align=center>
 <h2>🎧 My Spotify 🎧</h2>
