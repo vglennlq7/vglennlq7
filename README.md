@@ -15,7 +15,7 @@
   <br/>
 </div>
 <div align=center>
-<h2 style="color:#008000;">🎧 My Spotify 🎧</h2>
+<h2 style="color: #008000;">🎧 My Spotify 🎧</h2>
 <br>
 <a href="https://open.spotify.com/user/31u6nvuhmbkiomuyjloy3vidtiea">
     <img src="https://spotify-playground-tawny.vercel.app/api/spotify">
