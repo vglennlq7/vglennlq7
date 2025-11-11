@@ -4,7 +4,7 @@
 </h1>
 
 
-<h2 align="center">I am an aspiring Software Engineer with the goal of becoming a Cybersecurity Programmer 🎯. I’m passionate about technology, problem-solving, and learning how to protect digital systems from modern threats. Right now, i am learning Python, HTML, CSS and JavaScript.....🚀 </h2>
+<h2 align="center">I am a future Computer Science student 🧠🎯. I'm passionate about technology, problem-solving, and learning how systems work from the ground up. Right now, I am building my foundational skills in Python, HTML, CSS, and JavaScript as I prepare for my academic journey! </h2>
 
 <br/>
 <br>
